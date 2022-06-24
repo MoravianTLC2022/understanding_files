@@ -14,16 +14,14 @@ Goals of this exercise:
 * FIXME Are there videos or readings in O'Reilly Books? (BJC)
 
 
-## Steps
-
-Review:
+## Run Code in the IDE
 
 1. Clone this repo (in the IDE)
 2. Look at the file that the program will manipulate
 3. Run the code in the IDE
 4. Observe changes in the file
 
-New material:
+## Run Code in the Termainl
 
 1. Open a terminal window and go to the directory (cd, ls)
 2. Look at the contents of the files (cat, less)
@@ -32,7 +30,7 @@ New material:
 5. Edit the file from the command (nano); change is seen in IDE
 
 
-Clone in Terminal:
+## Clone in Terminal:
 
 1. Clone the repo from the command line to a new destination (git clone)
 2. Run the program
@@ -40,7 +38,7 @@ Clone in Terminal:
 commit)
 
 
-Paths:
+## Understanding Paths
 
 1. Make a directory called `data` and move the `cities.txt` into this folder
 2. Re-run the program - file not found error
