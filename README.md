@@ -25,16 +25,30 @@ Review:
 
 New material:
 
-5. Open a terminal window and go to the directory (cd, ls)
-6. Look at the contents of the files (cat, less)
-7. Run the program from the command line (python3)
-8. Look at the changes in the file (cat, less)
-9. Edit the file from the command (nano); change is seen in IDE
+1. Open a terminal window and go to the directory (cd, ls)
+2. Look at the contents of the files (cat, less)
+3. Run the program from the command line (python3)
+4. Look at the changes in the file (cat, less)
+5. Edit the file from the command (nano); change is seen in IDE
 
 
-Optional:
+Clone in Terminal:
 
-10. Clone the repo from the command line to a new destination (git clone)
-11. Run the program
-12. Edit the program and commit the changes (git status, git add, git 
+1. Clone the repo from the command line to a new destination (git clone)
+2. Run the program
+3. Edit the program and commit the changes (git status, git add, git 
 commit)
+
+
+Paths:
+
+1. Make a directory called `data` and move the `cities.txt` into this folder
+2. Re-run the program - file not found error
+
+   ```
+   FileNotFoundError: [Errno 2] No such file or directory: 'cities.txt'
+   ```
+3. Change the python code to add the diretory name
+4. Re-run the program to see that it works
+5. Go into `data` and run the program with `python ../list_cities` and see that it does not work.
+
