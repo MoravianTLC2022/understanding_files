@@ -21,7 +21,7 @@ Goals of this exercise:
 3. Run the code in the IDE
 4. Observe changes in the file
 
-## Run Code in the Termainl
+## Run Code in the Termanial
 
 1. Open a terminal window and go to the directory 
   * Right Click (or ctrl-click) on `app.py` and then select "Copy Path"
