@@ -1,8 +1,6 @@
-#Opens the file to both amend and read
-file1 = open('cities.txt', 'a+')
+#Opens the file to both read and write
+file1 = open('cities.txt', 'r+')
 print('These are your current cities: ' + '\n')
-#Ensures regardless of the device that the text file will be found
-file1.seek(0)
 print(file1.read())
 
 new_city = input("Add a city to the file: ")
