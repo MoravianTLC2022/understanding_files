@@ -11,8 +11,8 @@ Goals of this exercise:
 
 ## Background Material
 
-* FIXME Are there videos or readings in O'Reilly Books? (BJC)
-
+* [Linux: Files and Directories](https://learning.oreilly.com/scenarios/linux-files-and/9781098126292/)
+* [Linux: Editting Files with the Nano Editor](https://learning.oreilly.com/scenarios/linux-editing-files/9781098126322/)
 
 ## Run Code in the IDE
 
