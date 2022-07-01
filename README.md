@@ -35,12 +35,15 @@ Goals of this exercise:
 4. Add a city to the `cities.txt` file
   * Run `nano cities.txt`
   * Use the arrows (mouse does not work in nano!) to go to the bottom of the file
+  * Notice the city you just added is shown!
   * Add another city name
   * Press ctrl-x to exit and save.
   * Press 'y' to confirm to save
   * Press Enter to confirm the same filename
-5. Re-Run the program using `python3 list-cities.py`
-6. In the IDE, look at `cities.txt`.  Notice that your city is shown
+5. Re-Run the program using `python3 list-cities.py` - notice all cities 
+shown
+6. In the IDE, look at `cities.txt`.  Notice that your most recent city is 
+shown
 
 ## Understanding Paths
 
